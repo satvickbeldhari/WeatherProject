@@ -1,0 +1,4 @@
+Weather Insights:
+Mean Squared Error for Rainfall Prediction: 31.64
+Highest rainfall month: 1
+Lowest rainfall month: 7
